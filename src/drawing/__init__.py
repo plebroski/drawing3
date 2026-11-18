@@ -1,2 +1,2 @@
-from drawing import shapes
-shapes.oval()
+from .colors import *
+from .shapes import *
